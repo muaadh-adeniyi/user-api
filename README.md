@@ -42,12 +42,7 @@ DB_PASSWORD=your_database_password
 DB_DATABASE=your_database_name
 ```
 
-### **4. Run Migrations**  
-```sh
-npm run migration:run
-```
-
-### **5. Start the Server**  
+### **4. Start the Server**  
 ```sh
 npm run start:dev
 ```
