@@ -10,7 +10,8 @@ A **RESTful API** built with **NestJS** and **TypeORM**, designed to manage user
 ## **Technologies Used**  
 - **NestJS** (Backend Framework)  
 - **TypeORM** (ORM for database management)  
-- **PostgreSQL** (Relational Database)  
+- **PostgreSQL** (Relational Database)
+- **Typescript** 
  
 
 ## **Setup Instructions**  
